@@ -1,0 +1,18 @@
+package com.ict.controller.di;
+
+import org.springframework.cglib.core.Signature;
+
+import com.ict.controller.di.classfile.Singer;
+
+public class DiMainJavaver {
+
+	public static void main(String[] args) {
+		// 가수, 무대를 생성한 다음
+		Singer singer = new Signature();
+		Stage stage = new Stage();
+		
+		// 무대의 공연(perform)메서를 호출해주세요.
+
+	}
+
+}

@@ -8,6 +8,12 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\kimur\Desktop\20220331_spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\20220330\20220330_spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\220329\20220329_spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0325-spring(encoding).zip"/>
+			<item value="C:\Users\kimur\Desktop\20220325_spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\20220325\20220325_spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\SpringBasic.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220323\SpringBasic.zip"/>
 		</list>
@@ -17,5 +23,11 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="482"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

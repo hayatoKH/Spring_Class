@@ -8,6 +8,10 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\kimur\Desktop\20220408\0408-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\20220407\0407-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\20220406\0406-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0405-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220331_spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220330\20220330_spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\220329\20220329_spring.zip"/>
@@ -29,5 +33,7 @@
 		<item key="DIALOG_WIDTH" value="666"/>
 		<item key="DIALOG_HEIGHT" value="482"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="NewWizardAction">
 	</section>
 </section>

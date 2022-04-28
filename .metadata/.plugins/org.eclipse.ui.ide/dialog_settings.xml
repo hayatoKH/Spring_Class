@@ -4,10 +4,17 @@
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value=""/>
+			<item value="C:\spring\Spring_Class"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\kimur\Desktop\20220428\0428-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0427-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0425-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0422-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220421\0421-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220420\0420-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220415\0415-spring.zip"/>
@@ -24,8 +31,6 @@
 			<item value="C:\Users\kimur\Desktop\0325-spring(encoding).zip"/>
 			<item value="C:\Users\kimur\Desktop\20220325_spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220325\20220325_spring.zip"/>
-			<item value="C:\Users\kimur\Desktop\SpringBasic.zip"/>
-			<item value="C:\Users\kimur\Desktop\20220323\SpringBasic.zip"/>
 		</list>
 	</section>
 	<section name="SmartImportWizard">

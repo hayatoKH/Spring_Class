@@ -12,20 +12,23 @@ import lombok.extern.log4j.Log4j;
 @ContextConfiguration("file:src/main/webapp/WEB-INF/spring/root-context.xml")
 @Log4j
 public class SampleServiceTests {
-
+	
 	@Autowired
 	private SampleService service;
 	
-	@Test
+	//@Test
 	public void testClass() {
 		log.info(service);
 		log.info(service.getClass().getName());
 	}
 	
 	@Test
-	public void testAdd() throws Exception {
+	public void testAdd() throws Exception{
 		log.info(service.doAdd("123", "456"));
 	}
 	
-	
+	//@Test // 예외 발생 테스트
+	public void testAdd2() throws Exception{
+		log.info(service.doAdd("123", "ABC"));
+	}
 }

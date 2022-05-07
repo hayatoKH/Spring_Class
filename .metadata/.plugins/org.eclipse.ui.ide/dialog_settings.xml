@@ -11,6 +11,9 @@
 			<item value="C:\spring\Spring_Class"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\kimur\Desktop\0506-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\20220504\0504-spring.zip"/>
+			<item value="C:\Users\kimur\Desktop\0503-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220503\0503-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\0503-spring(시큐리티 프로젝트).zip"/>
 			<item value="C:\Users\kimur\Desktop\prj_aop.zip"/>
@@ -28,9 +31,6 @@
 			<item value="C:\Users\kimur\Desktop\20220412\0412-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220408\0408-spring.zip"/>
 			<item value="C:\Users\kimur\Desktop\20220407\0407-spring.zip"/>
-			<item value="C:\Users\kimur\Desktop\20220406\0406-spring.zip"/>
-			<item value="C:\Users\kimur\Desktop\0405-spring.zip"/>
-			<item value="C:\Users\kimur\Desktop\20220331_spring.zip"/>
 		</list>
 	</section>
 	<section name="SmartImportWizard">

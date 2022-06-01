@@ -15,10 +15,10 @@ import com.ict.controller.HomeController;
 
 import lombok.extern.log4j.Log4j;
 
-
+@Log4j
 public class CustomAccessDeniedHandler implements AccessDeniedHandler {
 
-	private static final Logger log = LoggerFactory.getLogger(CustomAccessDeniedHandler.class);
+	
 	
 	@Override
 	public void handle(HttpServletRequest request, HttpServletResponse response,
